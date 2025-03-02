@@ -68,3 +68,14 @@ CREATE TABLE ussk_agent (
 ✅ SQL Injection Prevention – Uses parameterized queries to prevent unauthorized access.
 ✅ User Authentication – Ensures only authorized users can access certain data.
 
+https://github.com/kiran98118/Insurance-Management-System/blob/b01e0d2d3e810b991f6a4deee4be6bfbbcfab7cd/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png
+
+
+## 📸 Work Samples
+
+### 🔹 Screenshot 1: Login Page
+![Login Page]()
+
+### 🔹 Screenshot 2: Dashboard
+![Database](https://github.com/kiran98118/Insurance-Management-System/blob/b01e0d2d3e810b991f6a4deee4be6bfbbcfab7cd/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png?raw=true)
+
