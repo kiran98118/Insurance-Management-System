@@ -77,6 +77,10 @@ https://github.com/kiran98118/Insurance-Management-System/blob/b01e0d2d3e810b991
 ![Login Page]()
 
 ### 🔹 Screenshot 2: Dashboard
+![Dashboard Screenshot](https://github.com/kiran98118/Insurance-Management-System/blob/b01e0d2d3e810b991f6a4deee4be6bfbbcfab7cd/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png?raw=true)
+
+
+### 🔹 Screenshot 2: Dashboard
 ![Database](https://github.com/kiran98118/Insurance-Management-System/blob/b01e0d2d3e810b991f6a4deee4be6bfbbcfab7cd/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png?raw=true)
 
 ![Screenshot](https://github.com/kiran98118/Insurance-Management-System/blob/b01e0d2d3e810b991f6a4deee4be6bfbbcfab7cd/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png?raw=true)
