@@ -51,22 +51,10 @@ The **database is designed using Oracle SQL**, and the **web application** is bu
   - `Passengers` may not always have a **passport** (domestic flights allow local IDs).
 
 
-### **📌 SQL DDL (Schema Definition)**  
-The project uses **Oracle SQL** to define the database structure.  
-Example:
-```sql
-CREATE TABLE ussk_agent (
-    agent_id NUMBER(3) NOT NULL,
-    agent_fname VARCHAR2(10) NOT NULL,
-    agent_lname VARCHAR2(10) NOT NULL,
-    agent_email VARCHAR2(15) NOT NULL,
-    agent_phoneno VARCHAR2(10) NOT NULL,
-    PRIMARY KEY (agent_id)
-);
-
 📌 Security Features
 ✅ SQL Injection Prevention – Uses parameterized queries to prevent unauthorized access.
 ✅ User Authentication – Ensures only authorized users can access certain data.
+
 
 
 
