@@ -56,6 +56,16 @@ The **database is designed using Oracle SQL**, and the **web application** is bu
 ✅ User Authentication – Ensures only authorized users can access certain data.
 
 
+## 📸 Work Samples
+
+### 🔹 Screenshot 1: Login Page
+![Login Page](https://github.com/kiran98118/Insurance-Management-System/blob/e532e788d0e831895d9ac969d5df5e6d4835ac26/Images/Screen%20Shot%202025-03-02%20at%202.22.25%20PM.png?raw=true)
+
+### 🔹 Screenshot 2: User details in Database
+![Dashboard](https://github.com/kiran98118/Insurance-Management-System/blob/e532e788d0e831895d9ac969d5df5e6d4835ac26/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png?raw=true)
+
+### 🔹 Screenshot 3: Payments in Database
+![Dashboard](https://github.com/kiran98118/Insurance-Management-System/blob/e532e788d0e831895d9ac969d5df5e6d4835ac26/Images/Screen%20Shot%202025-03-02%20at%202.21.46%20PM.png?raw=true)
 
 
 
