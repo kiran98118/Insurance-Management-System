@@ -69,7 +69,7 @@ CREATE TABLE ussk_agent (
 );
 
 
-🔐 Security Features
+### **📌 Security Features
 ✅ SQL Injection Prevention – Uses parameterized queries to prevent unauthorized access.
 ✅ User Authentication – Ensures only authorized users can access certain data.
 
