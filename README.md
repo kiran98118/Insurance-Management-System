@@ -51,7 +51,7 @@ The **database is designed using Oracle SQL**, and the **web application** is bu
   - `Passengers` may not always have a **passport** (domestic flights allow local IDs).
 
 
-📌 Security Features
+## 📌 Security Features
 ✅ SQL Injection Prevention – Uses parameterized queries to prevent unauthorized access.
 ✅ User Authentication – Ensures only authorized users can access certain data.
 
