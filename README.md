@@ -71,6 +71,6 @@ CREATE TABLE ussk_agent (
 https://github.com/kiran98118/Insurance-Management-System/blob/b01e0d2d3e810b991f6a4deee4be6bfbbcfab7cd/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png
 
 
-## 📸 Work Samples
+### **📌 📸 Work Samples
 
 ![Dashboard Screenshot](https://github.com/kiran98118/Insurance-Management-System/raw/b01e0d2d3e810b991f6a4deee4be6bfbbcfab7cd/Images/Screen%20Shot%202025-03-02%20at%202.21.34%20PM.png)
