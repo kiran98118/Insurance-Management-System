@@ -1,4 +1,4 @@
-# 🏦 Insurance Database Management System
+# 🏦 Flight Insurance Management System
 
 ## 📌 Project Overview  
 This project is a **Database Management System (DBMS)** implementation for **SAME**, an insurance company that provides coverage to **domestic and international passengers**. As the company expanded, manually managing data became inefficient.  
